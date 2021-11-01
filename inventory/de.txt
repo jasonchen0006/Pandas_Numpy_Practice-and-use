@@ -1,0 +1,809 @@
+﻿sku	asin	price	quantity	Business Price	Quantity Price Type	Quantity Lower Bound 1	Quantity Price 1	Quantity Lower Bound 2	Quantity Price 2	Quantity Lower Bound 3	Quantity Price 3	Quantity Lower Bound 4	Quantity Price 4	Quantity Lower Bound 5	Quantity Price 5	Progressive Price Type	Progressive Lower Bound 1	Progressive Price 1	Progressive Lower Bound 2	Progressive Price 2	Progressive Lower Bound 3	Progressive Price 3	Minimum order quantity	Sell remainder
+SXM-1043-G1	B01D8644JU	24.99	91																					false
+SXM-2086-G1	B07Y27D5RY	34.99	18																					false
+SXM-2628-G1	B07ZLZBL18	13.95	47																					
+SXM-2628-G2	B07ZM27ZC1	19.99	11																					
+SXM-2628-G3	B07ZM1WY1P	27.99	27																					
+SXM-2628-G4	B07ZM12FV1	35.99	39																					
+SXM-2628-G5	B07ZM12BKL	43.99	28																					
+SXM-2704-G1	B07ZVWH4QJ	7.99	20																					
+SXM-2704-G10	B07ZVWN5YH	24.99	20																					
+SXM-2704-G4	B07ZVWNCNL	16.99	20																					
+SXM-2704-G6	B07ZVVGLY3	18.99	20																					
+SXM-2937-G1	B0811NZS4K	33.99	52																					
+SXM-2943-G1	B0811NR3B8	34.98	69																					
+SXM-2986-G1	B082SM5MWL	79.99	30																					
+SXM-2989-G1z	B08RBRKR1R	42.99	1																					
+SXM-2991-G1z	B08RBPRQFR	47.99	98																					
+SXM-2993-M1m	B07ZYSS274	40.99	44																					
+SXM-306-G1	B08LVP7Z92	14.99	57																					
+SXM-306-G1a	B08D6HVZ19	15.99	85																					false
+SXM-307-G1	B08LVR7X9Q	16.99	78																					
+SXM-307-G1a	B08D6KXJVG	17.99	35																					false
+SXM-3162-G1j	B08XBKN7FG	49.99	30																					
+SXM-3162-G1m	B084FHGLZ3	60.99	47																					false
+SXM-3162-G2m	B084FHTWSL	95.99	28																					false
+SXM-3163-G1j	B08XBCF4JJ	49.99	30																					
+SXM-3163-G1m	B084FHWJX4	60.99	47																					false
+SXM-3163-G2m	B084FHWNRT	95.99	21																					false
+SXM-3175-G1	B07WKYR2KC	14.99	30																					
+SXM-3207-G1	B07ZFPJ33T	24.99	56																					false
+SXM-3207-G1a	B07YQLBLNS	23.99	36																					false
+SXM-3297-G1	B084G3Y7V2	42.99	48																					
+SXM-3393-G1	B0777MCFSV	21.99	39																					
+SXM-3394-G1	B0798KWWTG	20.99	24																					
+SXM-3394-G1a	B01LEVRVAU	21.99	38																					
+SXM-3523-G1	B07YBFPLHF	32.00	30																					false
+SXM-3524-G1	B07YBCRCPD	32.00	29																					false
+SXM-3525-G1	B07YBFB9XM	32.00	30																					
+SXM-3526-G1	B07YBDKJTB	32.00	28																					false
+SXM-3527-G1	B07YBF6H7X	37.00	28																					false
+SXM-3528-G1	B07YBDNLLN	37.00	21																					false
+SXM-3529-G1	B07YBDN12J	38.00	26																					false
+SXM-3530-G1	B07YBCQKNP	37.00	26																					false
+SXM-3545-G1z	B08RBP5XC2	32.99	66																					
+SXM-3546-M1m	B07ZYT437R	28.99	43																					
+SXM-3708-G1z	B08RBRJ4MT	32.99	132																					
+SXM-3942-G1	B08BCPMDDQ	41.99	71																					
+SXM-3944-G1	B08BCL3QP6	39.99	55																					
+SXM-3951-G1	B073GWZW5Q	15.99	41																					
+SXM-3952-G1	B078Z9R6LB	16.99	43																					
+SXM-3988-G1	B083Q7K1JM	20.95	317																					false
+SXM-3988-G1a	B08V19PHB9	20.99	223																					false
+SXM-3988-G2a	B08TZV2R68	34.95	223																					
+SXM-3988-G4a	B08V1KRYJF	66.95	269																					false
+SXM-3988-G6a	B08V1MXV7T	102.95	287																					false
+SXM-3988-G8a	B08V1JF9DV	134.95	264																					false
+SXM-3990-G1	B083Q73Q8T	20.99	140																					false
+SXM-3991-G1	B083Q6XG8G	24.99	62																					false
+SXM-3994-G1	B083Q7MBHN	36.99	303																					false
+SXM-3995-G1	B083Q73Q2Z	36.99	185																					false
+SXM-3996-G1	B083Q6N247	36.99	166																					false
+SXM-3997-G1	B083Q6PBHN	37.99	58																					false
+SXM-3998-G1	B083QD3K9C	37.99	21																					false
+SXM-4007-G1m	B087C2D7R5	45.99	24																					
+SXM-4009-G1m	B087C1H98N	61.99	30																					
+SXM-4010-G1m	B087C1TQP5	69.99	30																					
+SXM-4011-G1m	B087C1931D	74.99	30																					
+SXM-4012-G1m	B087B17VMG	67.31	24																					
+SXM-4016-G1m	B087BZZHTQ	82.99	30																					
+SXM-4017-G1m	B087C1YTG2	58.99	29																					
+SXM-4021-G1m	B087C1P7XR	88.99	30																					
+SXM-4022-G1m	B087BZSFBW	61.99	29																					
+SXM-4026-G1m	B087C18LB4	96.99	30																					
+SXM-4027-G1m	B087C27687	65.99	28																					
+SXM-4028-G1m	B087C13BVD	78.99	30																					
+SXM-4031-G1m	B087BZC2R8	97.99	30																					
+SXM-4212-G1a	B07RXK8RBL	16.89	41																					false
+SXM-4213-G1a	B07S2RH11K	19.89	45																					false
+SXM-4214-G1a	B07S3VXXBC	22.89	36																					false
+SXM-4553 4554-G1	B089RLYVTZ	41.99	100																					false
+SXM-4553-G1	B089RMY1M6	21.99	97																					false
+SXM-4553-G2	B089RM8X15	39.99	97																					false
+SXM-4554 4555-G1	B089RM97QS	49.99	100																					false
+SXM-4554-G1	B089RLJYR1	28.99	99																					false
+SXM-4554-G2	B089RLQXCR	44.99	100																					false
+SXM-4555-G1	B089RMYC12	33.99	97																					false
+SXM-4555-G2	B089RM57FV	53.99	100																					false
+SXM-4556 4557-G1	B089R621LX	41.89	98																					false
+SXM-4556-G1	B089RM8L1N	27.99	98																					false
+SXM-4556-G2	B089RLWBG2	38.99	95																					false
+SXM-4557 4558-G1	B089RLY47X	53.99	100																					false
+SXM-4557-G1	B089RLTRHH	31.99	96																					false
+SXM-4557-G2	B089RLHMYL	49.99	100																					false
+SXM-4558-G1	B089RLRSM9	35.89	96																					false
+SXM-4558-G2	B089RL2B81	58.99	98																					false
+SXM-4559 4560-G1	B089RML2VH	47.89	99																					false
+SXM-4559-G1	B089RMHXM2	27.89	95																					false
+SXM-4559-G2	B089RLQQLC	44.89	98																					false
+SXM-4560 4561-G1	B089RM69CX	58.99	99																					false
+SXM-4560-G1	B089RLN1MT	33.99	97																					false
+SXM-4560-G2	B089RLX6GR	53.99	99																					false
+SXM-4561-G1	B089RLR6VX	38.99	17																					false
+SXM-4561-G2	B089RLM611	63.99	4																					false
+SXM-4562 4563-G1	B089RMVFJQ	56.99	98																					false
+SXM-4562-G1	B089RLWZ55	36.99	97																					false
+SXM-4562-G2	B089RMQNQZ	49.99	97																					false
+SXM-4563 4564-G1	B089RMHFS8	68.99	100																					
+SXM-4563-G1	B089RMH3K1	37.89	98																					false
+SXM-4563-G2	B089RLTY4B	62.99	99																					false
+SXM-4564-G1	B089RMRFLT	42.89	98																					false
+SXM-4564-G2	B089RM6NNF	74.99	100																					false
+SXM-4565 4566-G1	B089RL2B82	61.89	50																					false
+SXM-4565-G1	B089RLS1NL	36.89	48																					false
+SXM-4565-G2	B089RLRSMB	56.89	49																					false
+SXM-4566 4567-G1	B089RM6K73	71.89	99																					false
+SXM-4566-G1	B089RLRYYB	40.89	100																					false
+SXM-4566-G2	B089RMX1RK	66.89	100																					false
+SXM-4567-G1	B089RLJ1DW	45.89	99																					false
+SXM-4567-G2	B089RM8WFH	84.99	100																					false
+SXM-4568 4569-G1	B089RMX6TH	70.99	80																					false
+SXM-4568-G1	B089RM5Z8Y	38.89	80																					false
+SXM-4568-G2	B089RMKJYV	61.89	76																					false
+SXM-4569 4570-G1	B089RMN655	87.99	100																					false
+SXM-4569-G1	B089RMND89	44.99	79																					false
+SXM-4569-G2	B089RM1YBF	78.99	78																					false
+SXM-4570-G1	B089RM5Z8Z	53.99	88																					false
+SXM-4570-G2	B089RNRVB3	95.99	99																					false
+SXM-4571 4572-G1	B089RLXKGJ	77.99	100																					false
+SXM-4571-G1	B089RM3YDW	39.99	99																					false
+SXM-4571-G2	B089RMR3DK	68.99	97																					
+SXM-4572 4573-G1	B089RMBLNW	96.99	100																					false
+SXM-4572-G1	B089RLV4K8	49.99	100																					false
+SXM-4572-G2	B089RMJ5P1	87.99	100																					false
+SXM-4573-G1	B089RM1YBD	60.99	99																					false
+SXM-4573-G2	B089RLQ95R	108.99	100																					false
+SXM-4574 4575-G1	B089RLJFZW	39.09	98																					false
+SXM-4574-G1	B089RL2B83	26.99	96																					
+SXM-4574-G2	B089RMM49R	36.19	90																					false
+SXM-4575 4576-G1z	B089RL1WCZ	46.99	100																					false
+SXM-4575-G1	B089RML51S	27.99	88																					false
+SXM-4575-G2	B089RL3LLL	43.39	94																					
+SXM-4576-G1	B089RMQ4JW	32.99	87																					
+SXM-4576-G2	B089RLRDHV	51.09	93																					false
+SXM-4578 4579-G1	B089RM65NM	50.99	42																					false
+SXM-4578-G1	B089RMKRKD	30.99	89																					
+SXM-4578-G2	B089RMG8QW	46.99	8																					
+SXM-4579-G1	B089RMSFX6	33.99	21																					
+SXM-4583 4584-G1	B089RMPBQ1	59.09	97																					
+SXM-4583-G1	B089RM95GX	35.99	88																					false
+SXM-4583-G2	B089RN281M	57.99	97																					false
+SXM-4584 4585-G1	B089RM8ZN5	72.99	99																					false
+SXM-4584-G1	B089RLFTX3	39.99	95																					false
+SXM-4584-G2	B089RM8LF3	67.99	100																					false
+SXM-4585-G1	B089RM7LRW	42.99	89																					false
+SXM-4585-G2	B089RM4835	79.99	96																					
+SXM-4589-G1z	B089RM1YSG	44.99	98																					false
+SXM-4589-G2z	B089RLHY2J	71.99	99																					false
+SXM-4591-G1	B089RM1GFS	61.99	97																					false
+SXM-4591-G2	B089RMQ65Z	99.99	91																					
+SXM-4616 4617-G1z	B089RLWBG1	37.99	28																					
+SXM-4616-G1	B089RLX5S2	22.99	49																					
+SXM-4616-G2z	B089RLTV3H	33.99	28																					
+SXM-4617 4618-G1z	B089RLLFQM	46.99	29																					
+SXM-4617-G1z	B089RLY7J3	24.99	50																					
+SXM-4617-G2z	B089RM8N3C	41.99	30																					
+SXM-4618-G1z	B089RLW3LQ	29.99	47																					
+SXM-4618-G2z	B089RLMLXJ	50.99	29																					
+SXM-4619 4620-G1z	B089RLQKHS	37.99	30																					
+SXM-4619-G1z	B089RM5KMM	23.89	50																					
+SXM-4619-G2z	B089RN1KQP	32.99	29																					
+SXM-4620 4621-G1z	B089RLRSMC	50.99	30																					
+SXM-4620-G1z	B089RM61SF	27.99	48																					
+SXM-4620-G2z	B089RLY55R	46.99	29																					
+SXM-4621-G1z	B089RM2MJ5	31.99	50																					
+SXM-4621-G2z	B089R3RW4X	55.99	30																					
+SXM-4622 4623-G1z	B089RM8LF2	41.99	30																					
+SXM-4622-G1z	B089RMMVFB	23.99	49																					
+SXM-4622-G2z	B089RM9J84	39.99	30																					
+SXM-4623 4624-G1z	B089R52L4R	55.99	30																					
+SXM-4623-G1z	B089RN8SXD	29.99	50																					
+SXM-4623-G2z	B089RMMVMM	50.99	28																					
+SXM-4624-G1z	B089RM1TJY	34.99	48																					
+SXM-4624-G2z	B089RMHFXT	60.99	30																					
+SXM-4625-G1z	B089RN1KQS	27.99	46																					
+SXM-4625-G2z	B089RM1TJX	46.99	29																					
+SXM-4626 4627-G1z	B089RL97R2	65.99	30																					
+SXM-4626-G1z	B089RL462J	33.99	45																					
+SXM-4626-G2z	B089RMYYKL	58.99	28																					
+SXM-4627-G1z	B089RM211Z	39.99	48																					
+SXM-4627-G2z	B089RLWMWD	71.99	21																					
+SXM-4779-G1	B07XYYP96T	69.99	28																					false
+SXM-4779-G1c	B095M5FCZW	79.99	200																					
+SXM-4801-G1	B09528HSGB	34.99	48																					
+SXM-4801-G1a	B095CL32B3	34.99	47																					
+SXM-4801-G1z	B08RBR8YSJ	36.99	73																					
+SXM-4802-G1	B09526Y6PZ	39.99	50																					
+SXM-4802-G1a	B095CHV1CG	39.99	48																					
+SXM-4802-G1z	B08RBR6M5Q	53.99	99																					
+SXM-4803-G1	B095285QRN	49.99	47																					
+SXM-4803-G1a	B095CFSQFF	49.99	50																					
+SXM-4804-G1	B0952834PV	56.99	50																					
+SXM-4805-G1	B095262RM2	75.99	50																					
+SXM-4921-G1a	B07WFVVMD3	25.99	50																					
+SXM-4922-G1	B08X2RG9QQ	28.99	50																					
+SXM-4922-G1a	B07WK3SFJJ	28.99	50																					
+SXM-4923-G1	B07WMWT1VC	29.99	50																					
+SXM-4924-G1	B07WK3SVWP	40.99	50																					
+SXM-5010-G1	B07W7BH99D	19.99	30																					false
+SXM-5010-G1a	B0817KK959	19.99	25																					false
+SXM-5010-G2	B0876M8VVY	32.99	25																					
+SXM-5010-G4	B0876PBM4N	59.99	29																					
+SXM-5011-G1	B07W7C8DWS	19.99	30																					false
+SXM-5011-G1a	B0817H4J9S	19.99	25																					false
+SXM-5011-G2	B0876MRTNP	32.99	25																					
+SXM-5011-G4	B0876NWVN5	59.99	25																					
+SXM-5012-G1	B07W57QQDV	19.99	30																					false
+SXM-5012-G1a	B0817JTWXN	19.99	50																					false
+SXM-5012-G2	B0876MRGRP	32.99	30																					
+SXM-5012-G4	B0876N19K9	59.99	30																					
+SXM-5013-G1	B07W7C974Z	19.99	26																					false
+SXM-5013-G1a	B0817J2HLB	19.99	35																					false
+SXM-5013-G2	B0876PGKB9	32.99	35																					
+SXM-5013-G4	B0876NL4D4	59.99	35																					
+SXM-5100-G1	B08NJWP2Z6	19.99	21																					
+SXM-5190-G1	B08ML4FRZ6	41.99	28																					false
+SXM-5191-G1	B08ML1JWVC	42.99	28																					false
+SXM-5192-G1	B098SY8RWC	64.98	41																					
+SXM-5204-G2	B08D6N4R8M	19.99	95																					
+SXM-5204-G2a	B07ZZ4SYKY	19.99	48																					
+SXM-5204-G2j	B08W58X6FZ	19.99	45																					false
+SXM-5204-G4	B08D6LZRSW	32.99	98																					
+SXM-5204-G4a	B07ZZ4CJR9	29.99	50																					
+SXM-5204-G4j	B08W58F5XB	30.99	42																					false
+SXM-5204-G6	B08D6M16RC	45.99	99																					
+SXM-5204-G6j	B08W57QYNM	43.99	48																					false
+SXM-5204-G8	B08D6M5RG6	58.99	99																					
+SXM-5204-G8a	B07ZZ4B66P	54.99	49																					
+SXM-5204-G8j	B08W58B5WB	54.99	52																					false
+SXM-5319-G1	B0972XT251	11.99	45																					
+SXM-5340-G1a	B08XNRFLS2	105.99	49																					false
+SXM-5341-G1a	B08XNPGR4C	105.99	47																					false
+SXM-5359-G1	B07ZNRX7H8	27.99	32																					false
+SXM-5390-G1	B08JLYZVJX	16.99	29																					false
+SXM-5442-G1a	B08YWS5CHL	246.89	30																					
+SXM-5442-G1b	B08XLRSZK1	239.99	30																					false
+SXM-5442-G1m	B07RLMTMFQ	220.99	17																					
+SXM-5443-G1a	B08YWPS87T	259.99	30																					
+SXM-5443-G1b	B08XLRP3YQ	249.99	30																					false
+SXM-5443-G1m	B07RLLK4NK	250.99	22																					
+SXM-5444-G1b	B08XM44CW8	259.99	30																					false
+SXM-5444-G1m	B07RHMZS57	280.99	28																					
+SXM-5463-G3a	B08CRQM6MM	13.99	35																					
+SXM-5470-G1	B08WX4FYX6	23.59	94																					false
+SXM-5471-G1	B08WX5X2D3	35.99	89																					false
+SXM-5472-G1	B08WXCDYLN	48.99	99																					false
+SXM-5473-G1	B083XM4BH4	10.99	77																					false
+SXM-5482-G1	B08DHKCTDR	89.99	50																					false
+SXM-5525-G1b	B08ZD9W9Z9	48.99	43																					false
+SXM-5525-G1c	B08ZD675B9	48.99	86																					false
+SXM-5591-G10d	B08WRK62B9	45.99	50																					
+SXM-5591-G15d	B08WRH66JB	55.99	49																					
+SXM-5591-G20d	B08WR8TQZM	70.99	47																					
+SXM-5591-G25d	B08WRZ25GK	86.99	50																					
+SXM-5591-G30d	B08WR1RB2M	103.99	50																					
+SXM-5591-G35d	B08WRG8Q7C	120.99	50																					
+SXM-5591-G40d	B08WR68HJD	137.99	50																					
+SXM-5591-G45d	B08WR65XLD	154.99	50																					
+SXM-5591-G50d	B08WRBMZ2S	171.99	50																					
+SXM-5591-G5d	B08WSCMJ3H	27.99	48																					
+SXM-5628-G1a	B092ZRPJ61	39.99	29																					false
+SXM-5635-G1	B08ZKTT1XP	92.99	100																					
+SXM-5643-G1	B07W8HD14Q	76.69	60																					
+SXM-5669-G1	B08ZKVTFC2	119.99	88																					
+SXM-5670-G1	B07WHZ1M1W	35.99	50																					
+SXM-5678-G1	B0817XBPJ2	11.99	27																					false
+SXM-5686-G1b	B0897LNSJT	30.89	1																					false
+SXM-5687-G1b	B0897MC59N	40.89	41																					false
+SXM-5688-G1b	B0897MLB83	40.89	50																					false
+SXM-5689-G1b	B0897KYWJ8	40.89	40																					false
+SXM-5713-G1	B08T5M4NLW	44.95	100																					false
+SXM-5753-G2m	B08VNFZFZJ	10.99	30																					
+SXM-5753-G3m	B08VNYJ6QB	13.99	30																					
+SXM-5754-G2m	B08VNWG4QG	12.99	30																					
+SXM-5754-G3m	B08VNRD8QX	15.99	30																					
+SXM-5755-G2m	B08VNQZ3GS	14.99	30																					
+SXM-5755-G3m	B08VN5664Q	18.99	30																					
+SXM-5762-G1a	B07WR97KZD	31.89	47																					false
+SXM-5947-G1	B08D7C8CP6	10.99	45																					
+SXM-5949-G1	B08D7CK75C	17.69	41																					
+SXM-5950-G1c	B08D79VRVJ	16.99	19																					
+SXM-6056-G1	B082PP8BC8	43.99	16																					
+SXM-6059-G1a	B08YWMSLQ5	259.90	20																					
+SXM-6059-G1b	B08XLQM31X	249.99	17																					false
+SXM-6059-G1m	B0873B35KB	260.99	26																					
+SXM-6060-G1a	B08YWTBBHB	269.90	15																					
+SXM-6060-G1b	B08XLYZ67N	259.99	11																					false
+SXM-6060-G1m	B08739VPNB	290.99	30																					
+SXM-6061-G1a	B08YX18JZP	279.90	15																					
+SXM-6061-G1b	B08XM1RW33	269.99	13																					false
+SXM-6061-G1m	B0873B6FN3	320.99	30																					
+SXM-6082-G2	B08369H4P9	29.99	20																					
+SXM-6112-G1a	B08YX4B7BT	289.99	50																					
+SXM-6112-G1b	B08XMLKSN9	279.90	45																					false
+SXM-6112-G1m	B0873BKWM3	250.99	22																					
+SXM-6113-G1b	B08XM39V25	299.90	19																					false
+SXM-6113-G1m	B08739MGTG	280.99	29																					
+SXM-6114-G1a	B08YX3VMV3	329.99	25																					
+SXM-6114-G1b	B08XM3SK2F	320.99	19																					false
+SXM-6114-G1m	B0873BQ84K	310.99	26																					
+SXM-6187-G1a	B0991YM223	33.99	37																					
+SXM-6193G1a	B088B66PVP	39.99	38																					false
+SXM-6217-G1a	B089VPL2ZL	26.59	78																					false
+SXM-6217-G1b	B08MW4M6MQ	26.99	49																					
+SXM-6217-G1c	B08MVYRHDJ	24.99	50																					
+SXM-6217-G1d	B08MW3Z8B9	25.99	50																					
+SXM-6246-G1c	B0925T7DV3	24.88	30																					
+SXM-6398-G2m	B08Y7Y4LLK	20.99	30																					
+SXM-6398-G3m	B08Y7ZK7BX	21.99	30																					
+SXM-6399-G2m	B08Y7Y6X4K	22.99	30																					
+SXM-6399-G3m	B08Y7Y6ZGB	23.99	30																					
+SXM-6400-G2m	B08Y7Z53ZH	24.99	30																					
+SXM-6400-G3m	B08Y7YKGMR	25.99	30																					
+SXM-6426-G30	B08B4JDMWK	9.99	5																					
+SXM-6427-G30	B08B4LMNKJ	9.99	4																					
+SXM-6428-G30	B08B4LB7NQ	9.99	19																					
+SXM-6460-G1	B08DXSC41B	25.99	28																					
+SXM-6476-G1z	B08RBR6L2C	17.99	137																					
+SXM-6478-G1r	B08RBV759J	29.99	99																					
+SXM-6478-G1z	B08RBQSHLV	26.99	183																					
+SXM-6480-G1z	B08RBSJ9K4	33.99	99																					
+SXM-6619-G1	B08JPRBBLF	11.99	98																					false
+SXM-6656-G1	B08L7D2FZC	14.99	45																					
+SXM-6657-G1	B08L7BWBNG	15.99	40																					
+SXM-6658-G1	B08L79K9WJ	16.99	48																					
+SXM-6659-G1	B08L7CJHBM	17.99	30																					
+SXM-6673-G1	B07W7PN6S2	115.99	115																					
+SXM-6714-G1	B08PYTMBB6	36.99	30																					
+SXM-6766-G1	B08MZM25YX	12.88	20																					
+SXM-6767-G1	B08MZMT2TT	15.88	18																					
+SXM-6768-G1	B08MZKS5L8	17.88	19																					
+SXM-6769-G1	B08MZL1KG9	12.88	19																					
+SXM-6770-G1	B08MZJF3Z4	15.88	18																					
+SXM-6771-G1	B08MZKT3FL	19.88	16																					
+SXM-6772-G1	B08MZMK3DP	12.88	10																					
+SXM-6773-G1	B08MZLYYMQ	18.88	20																					
+SXM-6774-G1	B08MZKDLRD	21.88	20																					
+SXM-6775-G1	B08MZLGMTQ	12.88	19																					
+SXM-6776-G1	B08MZMF46Y	18.88	15																					
+SXM-6777-G1	B08MZLBM95	21.88	8																					
+SXM-6778-G1	B08MZMXVL7	12.88	20																					
+SXM-6779-G1	B08MZMRZTR	18.88	10																					
+SXM-6780-G1	B08MZMV6K5	21.88	20																					
+SXM-6781-G1	B08MZM7VSC	12.88	20																					
+SXM-6782-G1	B08MZF4BN8	18.88	9																					
+SXM-6783-G1	B08MZK9814	21.88	7																					
+SXM-6784-A1a	B08NG9YWNQ	23.99																						false
+SXM-6784-G1j	B08NG9YWNQ	23.99	30																					false
+SXM-6788-G2a	B08QFLT3DP	24.99	49																					
+SXM-6789-G2a	B08QFJDR42	25.99	50																					
+SXM-6795-G1	B091CVRDCJ	13.99	97																					
+SXM-6796-G1	B091DZX7ZY	12.39	10																					
+SXM-6797-G1	B091CKTTNX	12.99	33																					false
+SXM-6798-G1	B091F1GL7B	13.99	17																					false
+SXM-6800-G1	B091CNL1J1	16.99	40																					
+SXM-6800-G1A	B091DYF4QB	16.99	50																					false
+SXM-6802-G1	B091CPPL6H	21.99	44																					false
+SXM-6802-G1A	B091DZW226	21.99	40																					false
+SXM-6803-G1	B091CM8LDT	13.99	48																					false
+SXM-6804-G1	B091DYWQTP	12.59	38																					false
+SXM-6805-G1	B091CPQCR1	13.39	49																					false
+SXM-6806-G1	B091F2LXPD	14.59	39																					false
+SXM-6807-G1	B091CLNDFT	15.19	49																					false
+SXM-6807-G1a	B07Z5T6K9K	15.19	30																					false
+SXM-6808-G1	B091DZCSPN	15.99	36																					false
+SXM-6808-G1a	B07Z5WKT4V	15.99	23																					false
+SXM-6809-G1	B091CM4X5H	18.99	47																					false
+SXM-6810-G1	B091DZTXLH	20.99	32																					false
+SXM-6836-G1	B08MKPTK5K	21.99	52																					false
+SXM-6870-G	B08P4M7VNB	54.99	55																					false
+SXM-6870-G1b	B089RTKKPZ	56.99	60																					false
+SXM-6884-G1	B095795R9P	24.98	12																					
+SXM-6913-G1	B08XXZ6QZ2	8.99	30																					
+SXM-6914-G1	B08XXYJFG1	8.39	30																					
+SXM-6915-G1	B08XXXP6TQ	9.39	30																					
+SXM-6916-G1	B08XY1LCFR	8.79	6																					false
+SXM-6918-G1	B08XXXZ4JG	9.89	30																					
+SXM-6919-G1	B08XXXCF56	11.29	30																					
+SXM-6920-G1	B08XXY9GKC	11.59	30																					false
+SXM-6921-G1	B08XXY95Q9	12.99	30																					
+SXM-6964-G1m	B091H6Z1ND	218.99	30																					
+SXM-6965-G1m	B091H64PG1	237.99	30																					
+SXM-7023-G1	B08X6QW788	16.99	30																					
+SXM-7070-G2	B096SSXNM2	92.99	23																					
+SXM-7112-G2	B08ZNF9B2K	18.99	30																					
+SXM-7113-G2	B08ZNH5DFJ	18.99	30																					
+SXM-7114-G2	B08ZNF8TTR	19.99	30																					
+SXM-7115-G2	B08ZNGRJRZ	19.99	30																					
+SXM-7116-G2	B08ZNGYS44	20.99	30																					
+SXM-7117-G2	B08ZNH1F1T	20.99	30																					
+SXM-7131-G1a	B08WC9HGY8	46.99	1																					false
+SXM-7135-G1a	B08WBQJK1W	64.00	13																					false
+SXM-7201-G1m	B091H9WNH9	306.99	30																					
+SXM-7257-G1	B095WBV8BK	64.99	30																					
+SXM-7258-G1	B095W99412	85.99	30																					
+SXM-7266-G1	B08W2QXNS5	20.99	30																					
+SXM-7268-G1m	B091H7QM5S	398.99	30																					
+SXM-7279-G1	B08ZHJ3478	48.99	59																					false
+SXM-7323-G1	B095789QTL	33.98	20																					
+SXM-7328-G1	B0957BFFQH	42.99	10																					
+SXM-7333-G1	B09578VF4Q	51.99	10																					
+SXM-7492-G1	B07Y27NL64	14.99	47																					false
+SXM-7494-G1	B07Y26FR33	22.99	88																					false
+SXM-7496-G1	B07Y267QNZ	27.99	60																					false
+SXM-7500-G1	B07Y282FGH	14.99	75																					false
+SXM-7502-G1	B07Y278V4Y	22.99	65																					false
+SXM-7504-G1	B07Y2774P1	27.99	19																					false
+SXM-1043-A1b	B08GXSZNXW	24.99																						
+SXM-2046DEL-G1d	B08FJ1RJ7G	16.99	0																					
+SXM-2825-M1m	B07ZYT3RZ3	18.99	0																					
+SXM-2983-G1	B082MJDMR9	102.99	0																					false
+SXM-3162-G1y	B08ZSLZ748	36.99	0																					
+SXM-3162-G2y	B08ZS8RBYN	68.99	0																					
+SXM-3163-G1y	B08ZSJ46YG	36.99	0																					
+SXM-3163-G2y	B084FHWNRT	68.99	0																					
+SXM-3181-G1	B08BCNC3VZ	112.99	0																					
+SXM-3182-G1	B08BCLFJ5H	109.99	0																					
+SXM-3183-G1	B08BCN4QYM	109.99	0																					
+SXM-3184-G1	B08BBY6MLJ	84.99	0																					
+SXM-3185-G1	B08BCL41C3	79.99	0																					
+SXM-3186-G1	B08BCPJLDF	79.99	0																					
+SXM-3395-G1	B01LCTBWJ0	33.99	0																					
+SXM-3669-G1	B082LZ1PDB	15.99	0																					
+SXM-3783-G1	B07W4JNR8M	70.99	0																					false
+SXM-3784-G1	B07WBW71PT	70.99	0																					false
+SXM-3785-G1	B07W4HVKW4	70.99	0																					false
+SXM-3786-G1	B07W5MCSFJ	75.99	0																					false
+SXM-3787-G1	B07W5N7JQ2	75.99	0																					false
+SXM-3788-G1	B07W4HCPYM	75.99	0																					false
+SXM-3833-G1	B08BCMYKYB	47.99	0																					
+SXM-3834-G1	B08BCMMKTZ	46.99	0																					
+SXM-3835-G1	B08BCLVWVC	45.99	0																					
+SXM-3836-G1	B08BCMF6TC	32.99	0																					
+SXM-3837-G1	B08BCM2SR8	32.99	0																					
+SXM-3838-G1	B08BCND72R	32.99	0																					
+SXM-3839-G1	B08BCN5YMC	49.99	0																					
+SXM-3840-G1	B08BCMGH7L	52.99	0																					
+SXM-3841-G1	B08BCN9P4X	51.99	0																					
+SXM-3939-G1	B08BCLHLHM	56.99	0																					
+SXM-3940-G1	B08BCMD2FK	54.99	0																					
+SXM-3941-G1	B08BCM6MZN	55.99	0																					
+SXM-3943-G1	B08BCNDQ44	41.99	0																					
+SXM-3989-G1	B083Q84KZQ	20.99	0																					false
+SXM-3992-G1	B083Q6VMQ7	23.99	0																					false
+SXM-3993-G1	B083Q7MWL7	23.99	0																					false
+SXM-3999-G1	B083Q6XYT9	40.99	0																					false
+SXM-4008-G1m	B087C1RV4J	56.99	0																					
+SXM-4013-G1m	B087C17F5X	64.99	0																					
+SXM-4014-G1m	B087C1DP4V	72.99	0																					
+SXM-4015-G1m	B087C133H9	79.99	0																					
+SXM-4018-G1m	B087C25KCH	73.99	0																					
+SXM-4019-G1m	B087C11QPK	82.99	0																					
+SXM-4020-G1m	B087C13C5P	82.99	0																					
+SXM-4023-G1m	B087C22P7P	75.99	0																					
+SXM-4024-G1m	B087C2136Q	83.99	0																					
+SXM-4025-G1m	B087C194W7	91.99	0																					
+SXM-4029-G1m	B087BZC2R6	87.99	0																					
+SXM-4030-G1m	B087C1CS38	95.99	0																					
+SXM-4211-G1a	B07RYLZ4X3	14.79	0																					false
+SXM-4476-G10	B07WJS7WKS	28.59	0																					
+SXM-4476-G100	B07WFLHQ81	160.59	0																					
+SXM-4476-G150	B07WT57WG7	249.59	0																					
+SXM-4476-G20	B07WFM7JJK	38.59	0																					
+SXM-4476-G200	B07WV4VPQD	319.59	0																					
+SXM-4476-G30	B07WDGPM1S	48.59	0																					
+SXM-4476-G40	B07WDJ5W45	58.59	0																					
+SXM-4476-G50	B07WDHRTBP	85.59	0																					
+SXM-4476-G6	B07WHP252C	18.59	0																					
+SXM-4547-G1	B07W4HPCXM	119.99	0																					false
+SXM-4548-G1	B07W4J86H2	119.99	0																					false
+SXM-4549-G1	B07W4H6HJW	119.99	0																					false
+SXM-4550-G1	B07W4JHYD8	129.99	0																					false
+SXM-4551-G1A	B07W4JP4GN	129.99	0																					false
+SXM-4552-G1	B07W4J1G9B	129.99	0																					false
+SXM-4577 4578-G1	B089RLRHY5	37.99	0																					false
+SXM-4577-G1	B089RLBZJ8	26.99	0																					
+SXM-4577-G2	B089RL6Z75	34.99	0																					
+SXM-4579-G2	B089RLQXCQ	55.99	0																					false
+SXM-4580-G1z	B089RM8M64	34.99	0																					false
+SXM-4581 4582-G1	B089RM1MVH	57.99	0																					false
+SXM-4581-G1	B089RMKBW4	38.99	0																					false
+SXM-4581-G2	B089RLYZ94	52.89	0																					
+SXM-4582-G1	B089RLXVCZ	41.99	0																					false
+SXM-4582-G2	B089RMF2F6	62.99	0																					false
+SXM-4586-G1	B089RLXLHM	44.89	0																					false
+SXM-4586-G2	B089RMBDR4	64.99	0																					
+SXM-4588-G1	B089RMR554	53.99	0																					false
+SXM-4588-G2	B089RMKJYW	91.99	0																					false
+SXM-4595-G1	B089RM1DNW	22.99	0																					
+SXM-4597-G1	B089RLGY42	29.99	0																					
+SXM-4625 4626-G1z	B089RLZJC1	51.99	0																					
+SXM-4632-G1	B089RMCLZN	41.99	0																					
+SXM-4633-G1	B089RMJKPH	50.99	0																					
+SXM-4638-G1	B083Q7BY5K	24.99	0																					false
+SXM-4639-G1	B083Q7HLD1	24.99	0																					false
+SXM-4640-G1	B083Q7CWLY	24.99	0																					
+SXM-4641-G1	B083Q7HNFM	23.99	0																					false
+SXM-4643-G1	B083Q6VTSW	39.99	0																					false
+SXM-4644-G1	B083Q5VPJJ	39.99	0																					false
+SXM-4645-G1	B083Q6WP2L	39.99	0																					false
+SXM-4646-G1	B083Q6R1B6	38.99	0																					false
+SXM-4651-G1	B08CN8Y3CN	21.99	0																					
+SXM-4652-G1	B08CNB3VQW	19.99	0																					
+SXM-4653-G1	B08CN9BBF6	23.99	0																					
+SXM-4654-G1	B08CNBP5WV	20.99	0																					
+SXM-4655-G1	B08CND6YC4	23.99	0																					
+SXM-4656-G1	B08CNCLKHW	20.99	0																					
+SXM-4658 4659-G1	B093BSH9W9	189.99	0																					false
+SXM-4778-G1	B086BR9568	169.99	0																					false
+SXM-4782-G1	B086BQ4JKN	172.99	0																					false
+SXM-4798-G1	B07W92HPM2	76.99	0																					
+SXM-4801-A1	B08RBR8YSJ	36.99																						false
+SXM-4808-G1	B0811NGZ51	23.99	0																					
+SXM-4935-G1z	B08RBRWS4F	29.99	0																					
+SXM-4936-M1m	B07ZYT2VSJ	18.99	0																					
+SXM-4990-G1	B0837PLPK3	33.99	0																					false
+SXM-4991-G1	B0837PJWTX	53.99	0																					false
+SXM-4992-G1	B0837PBWJS	78.99	0																					false
+SXM-5006-G1	B07W57R8QB	21.99	0																					
+SXM-5006-G1a	B0817JPMF5	22.99	0																					
+SXM-5007-G1	B07W3MPJWZ	21.99	0																					
+SXM-5007-G1a	B0817J8SXJ	25.99	0																					
+SXM-5008-G1	B07WL6VHSX	21.99	0																					
+SXM-5008-G1a	B0817HWJX5	22.99	0																					
+SXM-5009-G1	B07W3N3TGC	21.99	0																					
+SXM-5009-G1a	B0817H5C5Y	25.99	0																					
+SXM-5117-G1	B0825KD1ML	21.99	0																					
+SXM-5117-G1a	B0825L6LYW	24.99	0																					
+SXM-5118-G1	B0825KM7BN	29.98	0																					
+SXM-5118-G1a	B0825KKWNC	32.98	0																					
+SXM-5119-G1	B0825LC68T	33.29	0																					
+SXM-5119-G1a	B0825K8Q4Q	36.29	0																					
+SXM-5120-G1	B0825LHCG7	34.99	0																					
+SXM-5120-G1a	B0825JZZFK	37.99	0																					
+SXM-5121-G1	B0825KQR1X	35.92	0																					
+SXM-5121-G1a	B0825TK62X	38.92	0																					
+SXM-5122-G1	B0825L6FML	34.59	0																					
+SXM-5122-G1a	B0825KJJT8	37.59	0																					
+SXM-5123-G1	B0825K7P7M	39.69	0																					
+SXM-5123-G1a	B0825K572Q	42.69	0																					
+SXM-5124-G1	B0825L47GN	48.59	0																					
+SXM-5124-G1a	B0825KMM22	51.59	0																					
+SXM-5125-G1	B0825K6TJY	25.98	0																					
+SXM-5125-G1a	B0825KVGCT	28.98	0																					
+SXM-5126-G1	B0825KHK36	29.99	0																					
+SXM-5126-G1a	B0825KV1X4	32.99	0																					
+SXM-5127-G1	B0825KCVL6	34.28	0																					
+SXM-5127-G1a	B0825KYVJG	37.28	0																					
+SXM-5128-G1	B0825KK56G	35.89	0																					
+SXM-5128-G1a	B0825K81NT	38.89	0																					
+SXM-5129-G1	B0825KWPVB	38.98	0																					
+SXM-5129-G1a	B0825KF6J8	41.98	0																					
+SXM-5130-G1	B0825L86ZG	34.89	0																					
+SXM-5130-G1a	B0825JRYPY	37.89	0																					
+SXM-5131-G1	B0825L8KS2	41.68	0																					
+SXM-5131-G1a	B0825K48CG	44.68	0																					
+SXM-5132-G1	B0825KM94B	49.99	0																					
+SXM-5132-G1a	B0825K57ZY	52.99	0																					
+SXM-5141-G1	B097BV6DZH	18.99	0																					
+SXM-5142-G1	B097BX55XN	30.99	0																					
+SXM-5143-G1	B097BV1X5S	33.99	0																					
+SXM-5144-G1	B097BV944L	20.99	0																					
+SXM-5145-G1	B097BWBFVG	34.99	0																					
+SXM-5146-G1	B097BTYGFK	38.99	0																					
+SXM-5147-G1	B097BXNYMS	18.99	0																					
+SXM-5148-G1	B097BWNZDJ	30.99	0																					
+SXM-5149-G1	B097BVZQPW	33.99	0																					
+SXM-5150-G1	B097BVCGYS	20.99	0																					
+SXM-5151-G1	B097BYZJ2H	34.99	0																					
+SXM-5152-G1	B097BV7894	39.99	0																					
+SXM-5170-G1	B0825SRLBS	104.99	0																					
+SXM-5171-G1	B0825SZHF1	138.99	0																					
+SXM-5248-G1	B081GVXDSH	25.99	0																					false
+SXM-5249-G1	B081GW4W7C	29.99	0																					false
+SXM-5250-G1	B081GVYYG6	34.99	0																					false
+SXM-5251-G1	B081GVBZXB	37.98	0																					false
+SXM-5252-G1	B081GW8MQ9	27.99	0																					false
+SXM-5293-G1r	B08RBQB3YC	29.99	0																					
+SXM-5293-G1z	B08RBRPC7Z	26.99	0																					
+SXM-5295-G1	B0817R23HK	57.89	0																					false
+SXM-5312-G1	B08HWL669N	98.99	0																					false
+SXM-5320-G1a	B08XNQW8Q3	53.99	0																					false
+SXM-5321-G1a	B08XNT6MT7	55.99	0																					false
+SXM-5322-G1a	B08XNQ6LH1	53.99	0																					false
+SXM-5323-G1a	B08XNPWNHQ	53.99	0																					false
+SXM-5324-G1a	B08XNPMP86	58.99	0																					false
+SXM-5325-G1a	B08XNPTMDW	58.99	0																					false
+SXM-5326-G1a	B08XNQLFKY	58.99	0																					false
+SXM-5327-G1a	B08XNQYDY8	58.99	0																					false
+SXM-5328-G1a	B08XNNZT1M	63.99	0																					false
+SXM-5329-G1a	B08XNQHSNX	63.99	0																					false
+SXM-5330-G1a	B08XNQ9RJ1	63.99	0																					false
+SXM-5331-G1a	B08XNNSZSW	63.99	0																					false
+SXM-5332-G1a	B08XNPV8TL	86.99	0																					false
+SXM-5333-G1a	B08XNQJPKF	86.99	0																					false
+SXM-5334-G1a	B08XNNVW7M	86.99	0																					false
+SXM-5335-G1a	B08XNQ1NDK	86.99	0																					false
+SXM-5336-G1a	B08XNPWX1W	99.59	0																					false
+SXM-5337-G1a	B08XNQ2TS1	99.99	0																					false
+SXM-5338-G1a	B08XNQ53WN	99.99	0																					false
+SXM-5339-G1a	B08XNQRXSV	99.99	0																					false
+SXM-5342-G1a	B08XNQ4T62	105.99	0																					false
+SXM-5343-G1a	B08XNPNJL3	105.99	0																					false
+SXM-5359-G1z	B09956FGZ3	25.99	0																					false
+SXM-5360-G1	B07ZNRSG1M	26.99	0																					false
+SXM-5360-G1z	B09958G5G2	23.59	0																					false
+SXM-5422 5423 5424-G2	B09922S8SX	15.99	0																					false
+SXM-5422 5423 5425-G2	B0991ZSWTC	16.99	0																					false
+SXM-5422 5423 5426-G2	B0992127J9	17.99	0																					false
+SXM-5422-G6	B082G1HZJ6	10.99	0																					false
+SXM-5423-G6	B082G39YC5	11.99	0																					false
+SXM-5424-G6	B082G2RSML	12.99	0																					false
+SXM-5425-G6	B082G3C4L2	16.99	0																					false
+SXM-5426-G6	B082G1XBRP	14.99	0																					false
+SXM-5444-G1a	B08YWVYKJK	269.99	0																					
+SXM-5445-G1a	B08XNMN7YY	55.99	0																					false
+SXM-5446-G1a	B08XNQZWNN	62.99	0																					false
+SXM-5447-G1a	B08XNPVT92	87.99	0																					false
+SXM-5448-G1a	B08XNNZKMB	102.99	0																					false
+SXM-5449-G1a	B08XNNNTM7	99.99	0																					false
+SXM-5450-G1a	B08XNNR2PN	120.99	0																					
+SXM-5451-G1a	B08XNQTNK4	53.99	0																					false
+SXM-5452-G1a	B08XNS5315	58.99	0																					false
+SXM-5453-G1a	B08XNRHL7Y	63.99	0																					false
+SXM-5454-G1a	B08XNQ4JC6	86.99	0																					false
+SXM-5455-G1a	B08XNMPN39	99.99	0																					false
+SXM-5456-G1a	B08XNQZP65	118.99	0																					false
+SXM-5457-G11	B08X4R8H3D	32.99	0																					
+SXM-5457-G11a	B08V1HC36W	31.99	0																					false
+SXM-5457-G22	B08X4M8T99	61.99	0																					
+SXM-5457-G22a	B08TZQC7MP	60.99	0																					false
+SXM-5457-G33	B08X4R1JGR	90.99	0																					
+SXM-5457-G33a	B08TZRBJ6L	89.99	0																					false
+SXM-5457-G44	B08X4QHKM4	119.99	0																					
+SXM-5457-G55	B08X4RLWX9	148.99	0																					
+SXM-5458-G11	B08X4QKJ11	32.99	0																					
+SXM-5458-G11a	B08V12YGZG	31.99	0																					false
+SXM-5458-G22	B08X4R7C7Z	61.99	0																					
+SXM-5458-G22a	B08V16VH7H	60.99	0																					false
+SXM-5458-G33	B08X4QV8QM	90.99	0																					
+SXM-5458-G33a	B08V1FSGKH	89.99	0																					false
+SXM-5458-G44	B08X4RM3ZY	119.99	0																					
+SXM-5458-G55	B08X4QRPPY	148.99	0																					
+SXM-5480-G1	B07WM1ZX8R	11.37	0																					
+SXM-5480-G1a	B098QQPGMH	11.37	0																					
+SXM-5481-G1	B07WF72MHS	17.99	0																					
+SXM-5481-G1a	B098QQHZGX	17.99	0																					
+SXM-5482-G2	B08DHLBW9P	41.99	0																					false
+SXM-5525-G1a	B082YZVTNG	48.99	0																					
+SXM-5533-G1	B083TKNRR9	33.99	0																					
+SXM-5534-G1	B083TDB9Q2	35.99	0																					
+SXM-5592-G10d	B08WRSXR8R	51.99	0																					
+SXM-5592-G15d	B08WS4B84J	62.99	0																					
+SXM-5592-G20d	B08WRVHGR1	80.99	0																					
+SXM-5592-G25d	B08WRJY23T	100.99	0																					
+SXM-5592-G30d	B08WRLK8M9	120.99	0																					
+SXM-5592-G35d	B08WRDLZG1	140.99	0																					
+SXM-5592-G40d	B08WRK2KCB	160.99	0																					
+SXM-5592-G45d	B08WRN6FX7	180.99	0																					
+SXM-5592-G50d	B08WRBPXTL	199.99	0																					
+SXM-5592-G5d	B08WRFKD14	30.99	0																					
+SXM-5597-G1a	B07WR9PMS5	20.99	0																					false
+SXM-5624-M1m	B07ZYT43Q8	23.99	0																					
+SXM-5629-G1a	B092ZRR3XD	40.99	0																					false
+SXM-5678-B1	B0817XBPJ2	12.99	0																					false
+SXM-5679-B1	B0817X8PLR	13.99	0																					false
+SXM-5679-G1	B0817X8PLR	12.99	0																					
+SXM-5682-G1b	B092Z87KDG	20.49	0																					
+SXM-5683-G1b	B0897M6KDV	20.49	0																					
+SXM-5684-G1b	B0897LHPHD	24.49	0																					
+SXM-5685-G1b	B0897KXKG3	30.89	0																					
+SXM-5783-G1	B08DLTY6PX	36.59	0																					
+SXM-5783-G1a	B08DLTQRQT	37.99	0																					
+SXM-5795-G1	B08FC8NZMR	20.99	0																					
+SXM-5796-G1	B08FC8B1T9	29.99	0																					
+SXM-5857-G1	B081RJS27S	32.99	0																					
+SXM-5873-G1	B07XFJSH1D	29.99	0																					
+SXM-5881-G1	B082W4WDMN	10.99	0																					
+SXM-5948-G1c	B08D7CNPZY	11.09	0																					
+SXM-6020-G1	B0817S3DD9	81.99	0																					
+SXM-6049-A1a	B082QRFQD6	20.59																						
+SXM-6054-G1	B094ZYJDNF	18.99	0																					
+SXM-6055-G1	B094ZYKN7Y	21.99	0																					
+SXM-6075-G1	B085176KMS	27.99	0																					
+SXM-6102-G1a	B08HLVS2GS	28.99	0																					
+SXM-6105-G1	B098W679D5	39.99	0																					
+SXM-6106-G1	B098WSJT35	39.99	0																					
+SXM-6107-G1	B098WWZ982	42.99	0																					
+SXM-6110-G1	B08J7GB3JN	28.99	0																					
+SXM-6110-G1a	B08KXQBDQV	28.99	0																					
+SXM-6113-G1a	B08YWX31PL	320.99	0																					
+SXM-6165-G1	B08BP1DL3P	149.99	0																					
+SXM-6166-G1	B08BP4NLSQ	129.59	0																					
+SXM-6186-G1	B08HQ86581	118.99	0																					false
+SXM-6203-G1a	B08CC22F2L	43.99	0																					
+SXM-6204-G1a	B08CC2V5N1	55.99	0																					
+SXM-6205-G1a	B08CC22SGH	67.99	0																					
+SXM-6206-G1a	B08CC2ZZZ2	77.99	0																					
+SXM-6217-G1	B089XXF7YH	23.99	0																					
+SXM-6218-G1	B08B3F2Y17	15.99	0																					
+SXM-6218-G1a	B0991MYHDD	15.99	0																					
+SXM-6273-G1	B08MTF48FW	12.99	0																					
+SXM-6274-G1	B08MTS5WR3	15.99	0																					
+SXM-6275-G1	B08MS39VZR	18.99	0																					
+SXM-6276-G1	B08MTW2Z4V	21.99	0																					
+SXM-6319-G11	B097DWZXHN	35.99	0																					false
+SXM-6320-G11	B097DZCDY5	35.99	0																					false
+SXM-6321-G6	B097DWC2HZ	39.99	0																					false
+SXM-6322-G6	B097DVQWG3	37.99	0																					false
+SXM-6421-G1b	B08M9FY3QV	37.99	0																					
+SXM-6429-G30	B08B4LM7M7	9.99	0																					
+SXM-6430-G50	B08XJZ7XJW	88.99	0																					
+SXM-6431-G50	B08XK8HY2S	115.99	0																					
+SXM-6432-G50	B08XK8YTJ5	150.99	0																					
+SXM-6448-G2	B08FB2J2FP	18.99	0																					
+SXM-6448-G3	B08F9YNN6J	16.89	0																					
+SXM-6448-G4	B08FB2KNCQ	21.99	0																					
+SXM-6459-G1a	B08MBXLN1F	32.99	0																					
+SXM-6459-G1b	B085M8CHD7	32.99	0																					
+SXM-6464-G1	B096ZKN9VJ	10.99	0																					
+SXM-6465-G1	B097Y7Q7GW	35.99	0																					
+SXM-6478-A1	B08RBQSHLV	26.99																						false
+SXM-6485-G4	B08X6TWGFT	33.99	0																					
+SXM-6526-G1a	B08L36GM1R	88.98	0																					
+SXM-6553-G1	B08J7VGXF7	24.99	0																					
+SXM-6587-G1	B08HS4K45J	16.99	0																					
+SXM-6660-G1	B08L79WZXT	18.99	0																					
+SXM-6661-G1	B08L7CP7X3	19.99	0																					
+SXM-6699-G1	B08PXNZ7D6	19.99	0																					
+SXM-6700-G1	B08PYV9NQY	19.99	0																					
+SXM-6707-G1	B08PYTGRDF	29.99	0																					
+SXM-6708-G1	B08PYQ8GPL	29.99	0																					
+SXM-6709-G1	B08PYTFQ24	29.99	0																					
+SXM-6710-G1	B08PYWGQ86	29.99	0																					
+SXM-6711-G1	B08PYT7166	36.99	0																					
+SXM-6712-G1	B08PYWJX72	36.99	0																					
+SXM-6713-G1	B08PYV3454	36.99	0																					
+SXM-6720-M1a	B08LSWKT47	15.29	0																					
+SXM-6721-M1a	B08LRZZ68B	16.19	0																					
+SXM-6722-M1a	B08LSHYNMK	26.29	0																					
+SXM-6728-G1	B09375GVYV	112.99	0																					false
+SXM-6786-G1	B08M9S192Z	14.99	0																					
+SXM-6786-G1a	B08MC6W21H	15.59	0																					
+SXM-6786-G2	B08M9MXL8Y	22.99	0																					
+SXM-6787-G1	B08M99KGD9	14.99	0																					
+SXM-6787-G1a	B08MC6M7W1	15.59	0																					
+SXM-6787-G2	B08M9R6JDP	22.99	0																					
+SXM-6791-G1	B0983YYXY6	24.99	0																					
+SXM-6806-G1a	B07Z5X4V73	14.59	0																					false
+SXM-6809-G1a	B07Z5X4LZB	18.99	0																					false
+SXM-6810-G1a	B07Z5XMS8F	20.99	0																					false
+SXM-6827-G1	B091C27WMF	54.99	0																					
+SXM-6842*1 5947*1-G1c	B08FDSPJPV	19.99	0																					
+SXM-6842*1 5947*1-G1g	B08RDPKGRL	19.99	0																					
+SXM-6869-G6	B08P1PWZWW	29.99	0																					
+SXM-6870-A1	B089RTKKPZ	55.99	0																					
+SXM-6870-A1a	B08P4M7VNB	57.99																						false
+SXM-6883-G1	B09579Q1MT	15.98	0																					
+SXM-6893-G1a	B0999B8X7Q	44.99	0																					false
+SXM-6899-G1	B098WQSJ9X	28.99	0																					false
+SXM-6917-G1	B08XXZHZW1	8.99	0																					
+SXM-6924-G1	B07WBWFW6H	29.99	0																					false
+SXM-6946-G1	B08QTL1TXP	35.99	0																					false
+SXM-6961-G1	B098B3JXS2	16.99	0																					
+SXM-6962-G1	B098B3FZCZ	17.99	0																					
+SXM-6963-G1	B097Y8XMZ4	21.98	0																					
+SXM-6963-G2	B097Y9GF2R	29.99	0																					
+SXM-7019-G1	B08CNBKFQK	15.99	0																					
+SXM-7020-G1	B08CNC4PT6	13.99	0																					
+SXM-7021-G1	B08CNBS3VB	13.99	0																					
+SXM-7022-G1	B08CNB5P63	15.99	0																					
+SXM-7031-G2	B08XLSGFTJ	12.99	0																					
+SXM-7066-G1	B08CR96ZZD	28.99	0																					
+SXM-7067-G1	B08CRDRRTN	40.99	0																					
+SXM-7068-G1	B08CR5HCHD	47.99	0																					
+SXM-7111-G1	B08RYWWJYB	16.99	0																					
+SXM-7128-G1a	B08WC3SRVH	36.99	0																					false
+SXM-7129-G1a	B08WCR5YVT	40.99	0																					false
+SXM-7130-G1a	B08WBSZQX5	46.99	0																					false
+SXM-7132-G1a	B08WC5W5SL	54.99	0																					false
+SXM-7133-G1a	B08WC95N2T	63.99	0																					false
+SXM-7134-G1a	B08WBYHZGX	64.99	0																					false
+SXM-7136-G1a	B08WCV4ZWS	74.99	0																					false
+SXM-7146-G1	B093D6RRPX	31.99	0																					
+SXM-7232-G2	B091H89RZY	12.59	0																					
+SXM-7232-G4	B0992CBM6T	17.99	0																					
+SXM-7233-G2	B091H6FLWM	12.59	0																					
+SXM-7233-G4	B0992BWCBY	17.99	0																					
+SXM-7373-G1	B091C43S6X	98.99	0																					
+SXM-7385-G1	B091CB4TT7	29.96	0																					
+SXM-7432-G1	B095KFYDMM	27.99	0																					
+SXM-7432-G1a	B095KFYDMM	35.99	0																					
+SXM-7444-G1a	B097ZRPXDF	11.99	0																					false
+SXM-7444-G2	B097ZQZT9Z	16.99	0																					false
+SXM-7451-G1	B097SZH61H	12.99	0																					
+SXM-7451-G2	B097SXK1GG	17.99	0																					
+SXM-7508-A1	B098QJG1VB	16.89	0																					
+SXM-7508-G1	B098QJG1VB	16.89	0																					false
+SXM-7509-A1	B098QK1C1T	26.89	0																					
+SXM-7509-G1	B098QK1C1T	26.89	0																					false
